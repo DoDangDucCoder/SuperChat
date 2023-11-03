@@ -20,3 +20,8 @@ C:\Users\Admin\Desktop\SuperChat\SuperChat\SuperChat\obj\Debug\net5.0-windows\Su
 C:\Users\Admin\Desktop\SuperChat\SuperChat\SuperChat\obj\Debug\net5.0-windows\SuperChat.genruntimeconfig.cache
 C:\Users\Admin\Desktop\SuperChat\SuperChat\SuperChat\obj\Debug\net5.0-windows\ref\SuperChat.dll
 C:\Users\Admin\Desktop\SuperChat\SuperChat\SuperChat\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\SuperChat\SuperChat\SuperChat\obj\Debug\net5.0-windows\Themes\ContactCard.baml
+C:\Users\Admin\Desktop\SuperChat\SuperChat\SuperChat\obj\Debug\net5.0-windows\App.baml
+C:\Users\Admin\Desktop\SuperChat\SuperChat\SuperChat\obj\Debug\net5.0-windows\Themes\ChatItem.baml
+C:\Users\Admin\Desktop\SuperChat\SuperChat\SuperChat\obj\Debug\net5.0-windows\Themes\MessageBox.baml
+C:\Users\Admin\Desktop\SuperChat\SuperChat\SuperChat\obj\Debug\net5.0-windows\Themes\StylishScrollbar.baml
